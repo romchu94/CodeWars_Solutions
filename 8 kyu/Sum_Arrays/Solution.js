@@ -6,4 +6,4 @@ function sum (numbers) {
     return res
 };
 
-console.log(sum([]))
+console.log(sum([2,4,6]))
